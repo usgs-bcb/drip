@@ -1,0 +1,1279 @@
+THE REHABILITATION POTENTIAL OF DAM REMOVAL:
+TEMPORAL PERSPECTIVE FROM MICHIGAN’S PAST DAM REMOVALS
+Chapter Three of a 2007 Dissertation entitled:
+Effects of Dam Removal on Fluvial Geomorphology and Fish
+By Bryan A. Burroughs
+Professor Daniel B. Hayes
+Department of Fisheries & Wildlife
+Michigan State University
+13 Natural Resources, East Lansing, MI 48824-1222
+www.fw.msu.edu
+517-353-6697
+
+________________________________________________________________
+
+INTRODUCTION
+Dam removal has become a popular technique for stream restoration in the
+United States. The optimism for this technique to achieve restoration of stream
+ecosystems is based on the knowledge that dams critically alter the form and
+functioning of rivers. Often, the removal of dams is assumed to restore the original form
+and functioning of river systems, ameliorating the negative impacts of the dam’s
+existence. To date, the strength of this assumption has largely overshadowed the need
+for evidence of the benefits of dam removals, as the rate of removing dams continues to
+increase and little empirical evidence of the benefits of dam removal exists. If the
+practice of removing dams is to be justified as a tool for stream improvement, and
+advances made in dam removal methods, then knowledge of the outcomes of dam
+removals needs to be documented.
+Currently, only a few studies exist that document the outcomes of dam removals.
+The existing studies have focused on changes in river morphology, fish, aquatic insects,
+and nutrients, and have documented that substantial changes occur immediately
+following a dam removal (Hill et al. 1994, Kanehl et al. 1997, Evans et al. 2000,
+Bushaw-Newton et al. 2002, Stanley et al. 2002, Chaplin 2003, Burroughs 2007a,
+Burroughs 2007b). However, all of these studies have examined the effects of dam
+removal over relatively short time periods following removal. The financial commitment
+needed to study a dam removal for several years prior to removal, during the removal
+1
+
+phase, and for several years following a removal, can be large and limit the feasibility of
+evaluating long-term response (Doyle et al. 2002, Pizzuto 2002, Gordon et al. 2004).
+Large changes in streams are expected to occur immediately following a dam
+removal. Many of these changes are expected to continue for long periods of time,
+acquiring knowledge about the eventual outcomes of dam removal and the time
+durations to achieve these outcomes, is a very challenging using conventional BeforeAfter-Control-Impact (BACI) study design. Some of the important questions regarding
+dam removal may require decades to be answered. How long after a dam removal will
+sediment continue to be transported? Will the river channel in the formerly impounded
+area and downstream area ever resemble the original river channel? Will the dam
+removal be beneficial or detrimental for resident fishes? Knowledge of the eventual
+outcomes of dam removal, and the time required to achieve these outcomes is needed
+to develop realistic expectations and evaluate removal methods.
+Dams have many different impacts to river systems. Upstream of dams, water is
+impounded, gradient is reduced, water velocity is slowed, river channels widen, and fine
+sediment is deposited (Petts 1980, Ward and Stanford 1989). Downstream of dams,
+temperature of water released is often warmer or colder than the normal river water
+temperature. Sediment supply downstream of dams is greatly reduced, often leading to
+channel degradation, a lowering of gradient and water velocity, narrowing of the river
+channel, and coarsening of the substrate (Williams and Wolman 1984, Cushman 1985,
+Ward and Stanford 1989, Ligon et al. 1995, Collier et al. 1996, Lessard 2000, Shields et
+al. 2000). Fish species respond in varying ways to the habitat alteration and
+fragmentation caused by dams (e.g., Holden 1979, Bain et al. 1988, Hayes et al. in
+press). Non-native species often flourish in modified habitats (Martinez et al. 1994) and
+overall species richness and diversity can decrease (Quinn and Kwak 2003). Native
+species often decrease in abundance due to loss of habitat, loss of access to habitat, or
+competition with non-native species (e.g., Benke 1990, Pringle et al. 2000).
+In impoundments, sediment erosion occurs following dam removal, which
+increases gradient and water velocity, and leads to river channel narrowing, bank
+steepening, substrate coarsening, and some reformation of pools and riffles (Kanehl et
+al. 1997, Stanley et al. 2002, Burroughs 2007a). Downstream of dam removals,
+substantial amounts of sediment transport and deposition can occur, which increase
+gradient and water velocity, aggrade the streambed, increase stream width, decrease
+water depth and fill in pools and riffles (Burroughs 2007a). However, due to the
+relatively short periods of time post-dam removal that these changes have been
+studied, it is currently unknown how long they will take to reach an equilibrium, and what
+equilibrium conditions will be (Francisco 2004, Doyle et al. 2005).
+Changes to river morphology, along with the opening of fish passage, will alter
+conditions for the fish community. Fish species will be able to access habitats not
+previously available to them, and interact with species they did not previously interact
+with. Changes in fish habitat conditions will alter the suitability of sections of the river to
+the benefit of some species and the detriment of others. With each stream possessing
+a unique fish species composition and unique habitat conditions, generalizations about
+the effects of dam removals on fish are difficult. Given this variability of fish
+communities among rivers, are there still some generalizations that will hold true for
+most dam removals? After a dam removal, a larger number of fish species will be able
+
+2
+
+to access all habitats within a river system. Burroughs (2007a) suggests that even
+within a few years after dam removal, habitat conditions will become more diverse and
+heterogeneous due to dam removal. Fish communities have been observed to become
+more diverse and overall productivity increased (Burroughs 2007b).
+The difficulty of answering many of the crucial questions regarding dam removal
+lies in the relatively long periods of time that many of these changes may take to occur.
+Gathering this information could take scientists decades if not longer, using BACI
+experimental designs. However, the practice of removing dams continues to grow in
+frequency each year (Pohl 2003) despite the lack of this important information. These
+dam removals may have detrimental effects, or at least could be conducted more
+efficiently and effectively if more knowledge of the effects of dam removal was available.
+In this study we attempt to answer some of the crucial questions surrounding the
+eventual outcomes of dam removal, by surveying several past dam removals in
+Michigan that occurred from 2 - 39 years ago.
+The goal of this study was to provide insight into the extent of the changes following
+dam removal and the duration of time required to realize those changes. Specifically,
+the study objectives were to:
+1) document differences in water temperature, slope (gradient), width/depth,
+sinuosity, substrate size composition, and bedform frequencies, between
+upstream reference reaches and former impoundment and downstream reaches
+of dam removals, across a temporal scale of approximately 0 - 40 years post
+dam removal.
+2) document differences in fish community composition and fish abundance
+between the reference reaches and former impoundments and downstream
+reaches, across a temporal scale of approximately 0 - 40 years post-dam
+removal.
+METHODS
+Study Design
+At each past dam removal site, attributes of the fluvial geomorphology and fish
+community were surveyed in the former impoundment and downstream of the dam
+removal site. These were then compared to the same attributes surveyed in an
+upstream reference reach, outside of the influence of the dam on stream fluvial
+geomorphology. This upstream reference reach served as a surrogate for what the
+river in the former impoundment and downstream reaches would look like if the dam
+and the dam removal had not occurred. As such, we assume this provides a target for
+rehabilitation of river form and functioning. Natural differences between these three
+river reaches, not attributable to the presence of the dam or the occurrence of the dam
+removal might be expected (e.g., many dams were built on high gradient sections of
+stream to maximize storage potential and energy generation, and the underlying
+impoundment reach would have been higher gradient than an upstream reference
+reach). However, the reference reach conditions provide reasonable benchmarks for
+assessing how much rehabilitation was achieved in the two zones impacted by the dam
+and dam removal. If rehabilitation occurred in the area impacted by the dam and its
+subsequent removal, attributes of fluvial geomorphology in these zones would be
+expected to closely approach those seen in the reference reach of the river (Figure 1).
+
+3
+
+4
+
+0
+
+Time Since Dam Removal
+
+Figure 1. Hypothetical trajectories for rehabilitation of river attributes following dam removal.
+
+Difference from Reference Condition
+
+Fish community attributes of a reference reach however, could not be considered
+rehabilitation benchmarks since with restored fish passage following dam removal, the
+fish community in the reference reach would also change. In this situation, differences
+in fish community attributes can only be compared between the three zones to assess
+whether any of these zones consistently ranks lower than the others, indicating
+impairment.
+A list of all known dam removals that have occurred in the state of Michigan was
+obtained from the Michigan Department of Natural Resources, Fisheries Division. From
+this list of past dam removals, candidate study sites were selected to attain as wide and
+uniform of a temporal distribution possible. Additionally, sites were eliminated as
+candidates if the removal date was unknown or uncertain. Scouting trips were made to
+many of the remaining candidate sites, and final study site selections were made based
+on whether or not the former dam site could be located with certainty, logistic
+considerations, and the value of the dam removal to the temporal distribution of past
+dam removals (Table 1 Figure 2). Historic aerial photos were used to help identify
+former dam sites and the upstream extent of the historic impoundments. These photos
+were used in combination with the Delorme® digital topographic map program to
+determine latitude and longitude coordinates for pertinent landmarks, and to select
+study sites prior to sampling, to maximize the spatial distribution within each study zone
+and eliminate site selection bias.
+Table 1. Past dam removal study site information.
+
+Dam Name
+River Name
+
+Randall
+Coldwater
+
+Stronach
+Pine
+
+L’Anse
+Falls
+
+Salling
+AuSable
+
+Smyrna
+Flat
+
+County
+Year
+Removed
+Dam Height
+Constructed
+
+Branch
+2002
+
+Manistee
+1997 2003
+3.7 m
+1912
+
+Baraga
+1998
+
+Crawford
+1991
+
+Ionia
+1973
+
+Wacousta
+Looking
+Glass
+Clinton
+1966
+
+?
+?
+
+5.2 m
+1914
+
+?
+1908
+
+1.4 m
+1860
+
+3.7 m
+1912
+
+Each study stream was broken into three study zones; the former impoundment,
+the upstream reference, and a zone downstream of the dam site. The former
+impoundment was delineated through the use of historic aerial photos and maps, and
+confirmed in more recent dam removal sites, through use of on-ground visual cues
+(former impoundments length range 318 – 5869m). The upstream reference was
+chosen to start immediately adjacent to the former impoundment and extend upstream
+for as long a distance as logistically feasible (references length range 1155 – 5177m), in
+which the river maintained similar characteristics (e.g., it would not extend upstream of
+the confluence of significant tributaries). The downstream study zones extended from
+the former dam site downstream for as long as logistically feasible (downstreams length
+range 624 – 3286m), while still maintaining similar characteristics (e.g., not extending
+downstream of significant tributaries, or into downstream impoundments).
+
+5
+
+6
+
+Randall Dam
+
+Wacousta Dam
+
+Smyrna Dam
+
+Stronach Dam
+
+Salling Dam
+
+Figure 2. Location of study sites within the state of Michigan.
+
+L’Anse Dam
+
+Data Collection & Analysis
+Bedforms (i.e., riffles, runs, and pools) were mapped throughout the entire study
+area of each river. Bedforms were delineated following the general guidelines of Hicks
+and Watson (1985), and were classified as runs, riffles, pools, rapids, waterfalls, or
+complexes (a designation where more than one bedform applied). Widths and length of
+each unit were measured using a Nikon® laser rangefinder (+/- 0.5m accuracy). Areas
+of rivers impacted by dams were expected to be relatively homogenous run bedforms
+compared to upstream reference conditions (Burroughs 2007a), and it was
+hypothesized that riffle and pool bedforms would be formed following dam removal.
+The diversity of bedforms in the former impoundment and downstream zones were
+compared to the diversity of bedforms in reference reaches. The Shannon-Weaver
+diversity index (H’)(Shannon and Weaver 1949, Ricklefs 1990) was used to estimate the
+bedform diversity in each study zone. This index considers both the number of bedform
+types present and the evenness of the numerical proportions of each bedform,
+rewarding higher diversity values to study zones not numerically dominated by a just
+one bedform type (e.g., run).
+Water temperature was recorded in each study zone using Onset® water
+temperature data recorders (HOBO Water Temp Pro, +/- 0.174° C). All water
+temperature recorders were placed at the downstream boundaries of each study zone
+(to reflect temperature effects of that zone), and recorded water temperature every 30
+minutes, from July 29, 2005 through October 2, 2005.
+Three sample sites, approximately 5-7 stream widths in length, were located
+within each study zone. River channel cross-sectional morphology was surveyed at
+both the upstream and downstream boundaries of each sample site, and the difference
+between the water surface elevations at each boundary cross-section was surveyed in
+order to calculate slope for the sample site. At each boundary cross section (n = 6 per
+zone), elevations were recorded to the nearest 3 mm, at 0.61 m intervals across the
+wetted width of the stream, and at points of inflection on the streambanks (appropriate
+for the accurate mapping of bank morphology), using a level and stadia rod. Width to
+depth ratio (W/D) was calculated for each cross section using the width and mean depth
+of the wetted channel.
+Sinuosity of each study zone was estimated from aerial photos as the straightline valley length of a section of river, divided by the actual length of the water flow
+through that section of river. River measurements were made with ARC MAP (by ESRI)
+software. Aerial photographs were compiled from the Michigan State University
+Remote Sensing and Geographic Information Science (RSGIS) Research and Outreach
+Services aerial imagery archive. If needed, photos were rectified using a Michigan
+roads shapefile from the Michigan center of geographic information website. Shapefiles
+of points were added to represent the three stretches of the river being measured; each
+stretch of the river was measured three times and averaged. For many of the older dam
+removal study sites, aerial photos had been taken in several different years since the
+dams were removed. In these cases, sinuosity was repeatedly measured at several
+points in time since dam removal, for individual study sites.
+Substrate size composition was measured at each cross-section using a
+modified pebble count method (Wolman 1954, Kondolf and Li 1992, Burroughs 2007a).
+systematically sampled 100 substrate particles, from water’s edge to water’s edge
+
+7
+
+across the wetted width of the channel. The substrate particles were measured along
+the intermediate axis and assigned a size class code (from a modified Wentworth scale)
+(Wentworth 1922, Cummins 1962). The median substrate size (D50) was calculated for
+each cross-section and averaged for each study zone.
+Thorough one-pass sampling of the fish community was conducted of all habitats
+within each sampling site. The sites were unblocked, and effort (time actively sampling)
+was recorded. Backpack, tow barge, and boat electrofishing equipment were used as
+appropriate for each river, but the equipment used was constant within each river. All
+fish sampled were netted, identified to species, and released (with the exception of
+“voucher specimens” that were retained for further identification in the laboratory). Total
+species richness (number of fish species) and relative numeric abundance of all fish
+species were calculated for each study zone. The similarity of fish communities in each
+study zone of a river was evaluated using the Morista similarity index (Morista 1959).
+This index takes into account both the differences in which species are present and
+differences in the numeric proportions of those species present. An index value of 0.00
+indicates complete dissimilarity, a value of 1.00 indicates complete similarity, and values
+greater than 0.60 are generally interpreted as “similar” (Angradi and Griffith 1990).
+One of our study rivers, the Pine River, was part of a long-term investigation, and
+provided comparable but more detailed data. The data collection methods utilized were
+identical to those reported for this study (Burroughs 2007a, Burroughs 2007b). Data
+were selected from that dataset to match those acquired at that other past dam
+removals in this study (e.g., one pass fish sampling, matched cross-section sites), for
+both fluvial geomorphology and fish community characteristics. Repeated samples for
+each characteristic were drawn from the Pine River dataset from before and after the
+dam removal.
+RESULTS
+Fluvial Geomorphology
+Only small differences in water temperature were observed between study zones
+following dam removal (Figure 3). Water temperatures in both the former impoundment
+zones and downstream zones showed very little deviation from water temperatures
+seen in the upstream references. This was observed for all past dam removals studied,
+indicating that once a dam and impoundment were removed, its effects on water
+temperature were almost immediately ameliorated.
+In former impoundment reaches, slope was similar to or greater than reference
+levels, in all but one case, and this process appeared to occur within just a few years
+following dam removal (Figure 4). Differences in slope downstream of dam removals
+appeared more variable. Several downstream reaches had slopes greater than
+reference levels, while others had lower slopes than reference levels even 8 -15 years
+after dam removal. In the two oldest dam removals, greater than 30 years post-dam
+removal, slopes of both former impoundments and downstream reaches were similar or
+greater than reference reaches.
+Width to mean depth of the wetted channel (W/D) is a unitless ratio describing
+the shape of the river channel cross-section morphology; higher W/D indicates a wide
+shallow river channel and a lower W/D indicates a narrow and deep river channel.
+Former impoundment zones generally had higher W/D than reference zones, but
+
+8
+
+9
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+Dow nstream
+
+35
+
+Former Impoundment
+
+Upstream Reference
+
+Figure 3. Mean water temperature for each study zone, recorded from 7/29/05 – 10/2/05.
+
+Water Tem perature (C)
+
+40
+
+10
+
+-100
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+35
+
+Dow nstream
+
+Former Impoundment
+
+40
+
+Figure 4. Percent difference in slope for former impoundment and downstream zones, compared to slope in
+reference zones. Arrows connect data points from the Pine River, indicating the trajectory
+observed before to after the removal of Stronach Dam.
+
+Percent Difference in Slope from
+Reference
+
+appeared to decrease in W/D following dam removal, approaching reference level W/D
+by approximately 10 years (Figure 5). Downstream of dams, sediment transport and
+deposition appeared to increase W/D of the wetted channel immediately following dam
+removal, but eventually reference level W/D were achieved by 30 years post dam
+removal (Figure 5).
+Sinuosity of the river channel in all three study zones was measured for multiple
+years at each dam removal site, and no changes were observed (Figure 6). At some
+rivers, both former impoundment and downstream zones were more sinuous than
+reference zones, and in other study rivers they were less sinuous. However, in all
+cases the sinuosity of the river channel in the former impoundment and downstream
+zones remained stable following dam removal.
+Median substrate sizes in former impoundments and downstream zones were
+generally smaller than reference zones shortly following dam removal. One exception
+occurred where substrate in the former impoundment and downstream had coarsened
+to levels slightly higher than in the reference, just two years following dam removal, and
+in another case (excluded from graphical presentation) median substrate size was far
+greater than reference levels due to frequent boulders and bedrock in the waterfall-filled
+former impoundment and downstream zones. On average, substrate appears to begin
+coarsening slightly in the former impoundment immediately following dam removal,
+while the downstream zone shows very little substrate coarsening (Figure 7). The
+oldest dam removal cases studied, greater than 30 years post-removal, showed median
+substrates sizes in both former impoundments and downstream zones that were larger
+than those of the reference zones, indicating that restoration of substrate coarseness is
+possible following dam removal.
+Bedform diversity was generally lower in the former impoundment than reference
+zones, following dam removal (Figure 8). The diversity of bedforms appears to increase
+following dam removal, with a greater rate of increase in the former impoundment zone
+than for the downstream zone. However, the diversity of bedforms in the former
+impoundment zones was still lower than reference zones even after 30 years post-dam
+removal. In the downstream zones, bedform diversity was more variable, with many of
+the sites attaining reference-level bedform diversity, while others remained less diverse.
+The seven-year post-dam removal study site, the Falls River, remained an exception to
+the general trends (excluded from graphical presentation). In this river, the reference
+zone was lower gradient and contained more run bedforms, while the impoundment and
+downstream zones were extremely high gradient, and contained extensive waterfall
+bedforms.
+Fish Community Composition and Productivity
+Fish species richness differed between study zones for several years following
+dam removal, but by approximately 5 years post-dam removal fish species richness was
+similar between all three zones (Figure 9). Morista similarity index values also were
+similar for all zones within only a few years (Figure 10). The 7 year post-removal site
+remained an exception to fish community changes, due to waterfalls in the former
+impoundment and downstream zones which affected fish species distributions and
+prevented the influx of several species from Lake Superior.
+
+11
+
+12
+
+-30
+
+-10
+
+10
+
+30
+
+50
+
+70
+
+90
+
+110
+
+130
+
+150
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+Dow nstream
+
+35
+
+Former Impoundment
+
+40
+
+Figure 5. Percent difference in wetted width to depth ratio (w/d) for former impoundment and downstream
+zones, compared to w/d in reference zones. Arrows connect data points from the Pine River,
+indicating the trajectory observed before to after the removal of Stronach Dam.
+
+Percent Difference in Width/Depth
+Ration from Reference
+
+13
+
+-60
+
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+35
+
+Former
+Impoundment
+
+Downstream
+
+40
+
+Figure 6. Percent difference in sinuosity for former impoundment and downstream zones, compared to
+sinuosity in reference zones. Connected data points indicate the sinuosity of the same study
+zone, measured at different dates through aerial photos.
+
+Percent Difference in Sinuosity from
+Reference
+
+14
+
+-200
+
+-150
+
+-100
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+35
+
+Dow nstream
+
+Former Impoundment
+
+40
+
+Figure 7. Percent difference in median substrate size for former impoundment and downstream zones,
+compared to median substrate size in reference zones. Arrows connect data points from the Pine
+River, indicating the trajectory observed before to after the removal of Stronach Dam.
+
+Percent Difference in Median Substrate
+Size from Reference
+
+15
+
+Percent Difference in Diversity
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+35
+
+Dow nstream
+
+Former Impoundment
+
+40
+
+Figure 8. Percent difference in the diversity of bedforms for former impoundment and downstream zones,
+compared to reference zones. Arrows connect data points from the Pine River, indicating the
+trajectory observed before to after the removal of Stronach Dam. Shannon-Weaver diversity index
+used.
+
+-120
+
+-100
+
+-80
+
+-60
+
+-40
+
+-20
+
+0
+
+20
+
+40
+
+16
+
+-100
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+Waterfalls affecting fish
+distribution
+
+30
+
+35
+
+Dow nstream
+
+Former Impoundment
+
+40
+
+Figure 9. Percent difference in fish species richness for former impoundment and downstream zones,
+compared to fish species richness in reference zones. Arrows connect data points from the
+Pine River, indicating the trajectory observed before to after the removal of Stronach Dam.
+
+Percent Difference in Species
+Richness from Reference
+
+17
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1
+
+0
+
+5
+
+10
+
+20
+
+25
+
+30
+
+Years Since Dam Removal
+
+15
+
+Waterfalls affecting fish
+distribution
+
+35
+
+40
+
+Dow nstream
+
+Former Impoundment
+
+45
+
+Figure 10. Morista similarity indices of fish community numeric composition, for former impoundment and
+downstream zones, compared to reference zones. Similarity indices of 0.00 denote complete
+dissimilarity, 1.00 denotes complete similarity, and indices greater than 0.60 indicate “similar”
+fish community compositions. Arrows connect data points from the Pine River, indicating the
+trajectory observed before to after the removal of Stronach Dam.
+
+Fish Community Similarity
+
+The total number of fish sampled in a study zone, adjusted for effort, was used
+as a surrogate for the productivity of the fish community. Total number of fish in former
+impoundment zones was relatively variable among rivers for the first 15 years or so, but
+across all rivers from 0 – 39 years post-removal, shows a gradual increasing trend, from
+slightly less fish than reference levels to slightly more than reference levels for the dam
+removals >30 years old (Figure 11). Downstream zones show a more distinct trend in
+lowered fish abundance immediately following dam removal, with lower fish abundances
+for approximately 15 years post-removal, and higher fish abundances than reference
+zones by >30 years post dam removal.
+DISCUSSION
+Fluvial Geomorphology
+Dams can alter the river temperature in numerous ways (Ligon et al. 1995,
+Collier et al. 1996). Lessard and Hayes (2003) found that in Michigan coldwater
+streams, water temperature downstream of dams was on average, 2.7° C warmer than
+upstream reference zones. These effects were thought to be caused by the warming of
+water retained in the impoundment, and its subsequent release downstream. Dams can
+also release water from the hypolimnion of an impoundment, lowering water
+temperature substantially relative to upstream. The removal of a dam ameliorates
+effects on water temperature almost immediately, as only very small differences in
+water temperature were observed in any past dam removals in this study. The water
+temperature effects of dams can be a major motivation and consideration in deciding
+whether to remove dams. Dams can alter water temperatures in ways both detrimental
+and beneficial to fisheries management. In some cases, water temperature can be
+warmed by dams to levels that will not support coldwater fisheries resources (Lessard
+and Hayes 2003, Hayes et al. in press). In other cases, coldwater releases downstream
+of dams can create water temperatures cold enough to support coldwater fisheries not
+otherwise possible, but displace native fish species not adapted to the colder water
+temperatures (e.g., Martinez et al. 1994, Quinn and Kwak 2003). The results of this
+study suggest that dam removal will restore water temperatures in impoundments and
+downstream sections of rivers to levels similar to upstream references. Whether this
+outcome of dam removal is viewed as desirable will depend on the fish community
+goals, and will likely vary with the uniqueness of each river and its fish community.
+Slope is a main variable driving many of the characteristics of a river channel and
+fish habitat. Slope directly affects water velocity, thereby influencing channel
+morphology and substrate size composition. Dams generally decrease water slope in
+reservoirs through the impoundment of water and aggradation of sediment (Lane 1955,
+Gordon et al. 2004). Sections of rivers downstream of dams also generally experience
+decreased slope, through the degradation of the streambed immediately downstream of
+dams. Following dam removal, slope increases through a reversal of these sediment
+processes, as sediment degradation (i.e., incision) occurs in former impoundments and
+sediment aggradation occurs downstream of dams (Figure 12). The recovery rate of
+slope following dam removal will depend on how much sedimentation occurred in a
+reservoir and how sediments are managed. In reservoirs with very little sediment fill,
+dewatering the impoundment during removal will restore the slope of the former
+impoundment nearly immediately. Reservoirs that contain large amounts of sediment
+
+18
+
+19
+
+-100
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+0
+
+5
+
+10
+
+20
+
+25
+
+Years Since Dam Removal
+
+15
+
+30
+
+Dow nstream
+
+35
+
+Former Impoundment
+
+40
+
+Figure 11. Percent difference in fish abundance (number of fish) for former impoundment and downstream
+zones, compared to fish abundance in reference zones. Arrows connect data points from the Pine
+River, indicating the trajectory observed before to after the removal of Stronach Dam.
+
+Percent Difference in Number of Fish
+
+20
+
+Slope
+
+Dam
+
+Post-Dam
+
+aggradation
+
+degradation
+
+Downstream
+
+Reference
+
+Impoundment
+
+Figure 12. Hypothetical changes in the slope of sections of rivers affected by dams and dam
+removals, and the sediment processes causing the changes in slopes.
+
+Pre-Dam
+
+degradation
+
+aggradation
+
+fill must undergo significant incision that could take several years to reach an
+equilibrium. In this study, we observed sites in which slope was restored quickly and
+others where slope recovered more slowly. These differences could be explained by
+the amount of sediment contained in the impoundments prior to dam removal, natural
+variation in the underlying slope of the river reaches the impoundments were
+constructed on, or possibly by the methods used to remove the dams (e.g., staged
+versus all-at-once dam removal). Understanding the influence of each possible
+explanation will be difficult given the lack of pre-dam removal information available for
+these past dam removal study sites. However, it appears that slope generally reaches
+reference levels within 2 to 5 years following dam removal.
+Immediately following dam removal, the lack of water impoundment immediately
+decreases wetted width of the river channel and often the water depth. Further, in
+impoundments that contain significant amounts of sediment fill, incision occurs vertically
+downward through these sediments, forming a narrower river channel, and further
+decreasing the width of the river channel and the W/D ratio. The results of this study
+suggest that the equilibrium slope and W/D ratio will eventually become very similar to
+reference conditions, but may take more than a decade for this new equilibrium channel
+to form. Downstream of dams, increased sediment supply following dam removal
+generally aggrades the streambed and increases both slope and W/D of the river
+channel. So whereas the impoundment zones move toward restoration of channel form
+immediately following dam removal, the downstream zones often move away from
+reference conditions immediately following dam removal. The results of this study
+suggest that river channels downstream of dam removals eventually move toward
+reference conditions, but require more time to achieve these conditions, perhaps 20
+years or more. Reference conditions were observed in the downstream zones for the
+dam removals >30 years old, indicating that restoration of channel form is possible. One
+notable exception occurred with implications for how dams are removed. The Randall
+Dam on the Coldwater River was removed in 2002, during which a sediment collection
+basin was operated immediately downstream of the dam (D. Zebell personal
+communication). This prevented large amounts of sediment from impacting the
+downstream zone of this river. Consequently, many of the negative impacts of
+sediment deposition, including increased W/D of the river channel were not observed.
+Sinuosity in former impoundments and downstream zones did not change
+following dam removal. Despite large amounts of vertical incision observed at some
+dam removals (Stanley et al. 2002, Burroughs 2007a), substantial lateral erosion
+through the floodplain was not observed. Sinuosity of a river channel influences the
+slope and subsequently the equilibrium channel shape. Sinuosity also affects the
+formation of pool bedforms at the outside corners of meanders, and affects the rate of
+wood debris recruitment and retention in rivers. It still remains uncertain whether river
+channels will revert to pre-dam removal river channels or whether new river channels
+will form through accumulated reservoir sediment fill. Managers may decide upon
+desirable locations of new river channels formed following dam removal, and the
+equilibrium slope and sinuosity of these post-dam removal channels, based on various
+management objectives. However, it is important to realize that sinuosity does not
+seem to change significantly following dam removal, so desired sinuosity should be
+considered prior to dam removal as part of an integrated dam removal plan.
+
+21
+
+As slope increases in former impoundment and downstream zones, water
+velocity increases, and substrate size composition coarsens slightly. This begins soon
+after dam removal in the impoundment zone, and later in the downstream zone if the
+reservoir sediment fill is allowed to be transported and deposited downstream.
+However, the median substrate size of reference zones is reflective of higher, more
+infrequent flow events. Even as substrate size coarsens in impoundment and
+downstream zones, the median substrate size would not be expected to coarsen to
+reference levels for many years or decades, until several high flow events have
+occurred. Results from this study suggest that substrate in former impoundments and
+downstream zones can become as coarse as seen in reference zones following dam
+removal. This substrate coarsening could be achieved shortly after dam removal if
+active sediment management efforts are employed (i.e., dredging, or passive
+collection), or if a large, infrequent flow event happens to occur shortly after the dam
+removal. In most cases however, it appears as though several decades may be
+required in order to achieve the full restoration of substrate coarseness following dam
+removal.
+Similar to substrate coarseness, the creation of bedforms is controlled by
+infrequent high flow events, often 5 -10 year recurrence interval floods, that possess
+sufficient energy to scour pools and transport and deposit large substrates, forming
+riffles (Petts and Foster 1985, Knighton 1984, and Beschta and Platts 1986, as cited in
+Gordon et al. 2004, and Pizzuto 2002). Bedforms can also be created secondarily by
+other localized structures or events such as wood debris or bank slumping. In this study
+we observed an increase in bedform diversity in former impoundment and downstream
+zones following dam removal, but full restoration of bedform frequency was
+inconsistent, even decades following dam removal.
+In the case of the Stronach Dam removal on the Pine River, the former
+impoundment was almost entirely run bedform prior to dam removal (Burroughs 2007a).
+Eight years after the dam removal, the proportion of run bedform had decreased with
+increases in riffle and pool bedforms, but the diversity of bedforms was still less than
+observed in the reference zone. The results of this study suggest that while bedform
+diversity may improve in former impoundments following dam removal, the process will
+be slow, and reference-level bedform diversity may not be achieved. Several of the
+downstream zones in this study did attain reference-level bedform diversity. The two
+downstream study zones that remained low in bedform diversity were both low gradient
+and emptied into other impoundments. This situation may reduce sediment transport
+ability during high flows and slow or prevent the reformation of diverse bedforms
+downstream of dam removals.
+Bedform diversity influences sediment transport and sorting, nutrient cycling, and
+is important to the habitat suitability of stream biota (Gordon et al. 2004). Given the lack
+of bedform restoration in impoundments following dam removal, managers may need to
+consider actively restoring bedforms following dam removal.
+Fish Community Composition and Productivity
+While many aspects of the fluvial geomorphology of rivers seem to be restored
+eventually following dam removal, changes that occur to the fish community can not
+necessarily be seen as restoration. With the initiation of fish passage following dam
+
+22
+
+removal, often quite different fish assemblages are allowed to intermix, and interact with
+varying habitat conditions. The result is a new and different fish community following
+dam removal, throughout all of the zones.
+Hill et al. (1994) found that species richness increased in the Chipola River,
+Florida following dam removal. Kanehl et al. (1997) found index of biotic integrity
+scores increased in the Milwaukee River, Wisconsin following dam removal; and
+Burroughs (2007b) found fish species richness, diversity, and similarity of numeric
+community composition increased in all three zones (reference, former impoundment,
+and downstream) following the removal of Stronach Dam on the Pine River, Michigan.
+Results from this study support these other findings, in that the similarity of species
+richness and numeric composition between study zones increased very quickly, within
+just a few years following dam removal. Again, these changes are not necessarily
+interpreted as restoration of original “pre-dam” fish communities, but rather
+homogenization of fish assemblages within a river. Fisheries managers faced with
+potential dam removals will need to decide whether these changes are desirable for a
+specific river.
+The trends in fish abundances after dam removal follow many of the changes in
+fish habitat observed in this study. Many aspects of fish habitat were observed to
+change immediately following dam removal, such as water temperature and slope.
+These changes will immediately alter the suitability of the habitat in former
+impoundment and downstream zones, leading to changes in the fish communities and
+fish abundances in each zone. These immediate changes alter the former
+impoundment to reflect more reference-like lotic conditions, while downstream zones
+are often inundated with sediment transport and deposition from the incision process in
+the former impoundment. This leads to wider and shallower river channels, and smaller
+sized, unstable substrates. Correspondingly, fish abundances in downstream zones
+were lowered to levels far below those of the reference zones, taking several decades
+to recover. Bushaw-Newton et al. (2002) also observed decreased fish abundance
+downstream of a dam removal in Pennsylvania immediately following dam removal.
+Other important aspects of fish habitat were observed to take much longer
+amounts of time to recover after dam removal. The frequency of different bedforms
+such as riffles or pools are fundamentally important to the survival and feeding needs of
+different life stages of almost all stream fishes. Substrate coarseness is also related to
+the spawning requirements of many stream fishes, the survival needs of many juvenile
+fish as holding cover, and the productivity of macroinvertebrate communities which
+serve as food for many stream fishes. These important attributes of fish habitat were
+observed to require long periods of time post-dam removal to be improved or restored.
+It should not be surprising then, that fish community productivity as measured by fish
+abundance, also required a long period of time (~20 – 30 years) post-dam removal in
+order to reach levels seen in upstream reference habitat. Fisheries managers hoping to
+improve the productivity of a fish community through dam removal, may need to
+consider active restoration of key fish habitat attributes such as substrate composition
+and bedform diversity, if the full potential benefits of dam removal are to be achieved
+within short management timeframes.
+
+23
+
+Synthesis
+While the results of this study were derived from a limited number of dam
+removal case studies, they provide the first empirical estimates of the timeframes
+required for various attributes of rivers and their fish to recover or change following dam
+removal, and also generate novel insights into the trajectories these changes may
+follow. Many of the aspects of river form and function appear to be restored through
+dam removals. However, many of the most important aspects of fish habitat may take
+several decades to be restored, and the full benefits of dam removal won’t be achieved
+until those aspects of fish habitat are recovered.
+These results give guidance on where to best spend limited funds directed at
+dam removals and associated active restoration. Sinuosity did not change following
+dam removal, and bedform diversity and substrate coarseness took long amounts of
+time to improve or be restored. If active restoration is feasible following dam removal,
+efforts aimed at creating meanders, pool and riffle forming structures and coarsening
+substrate, could help to speed the restoration of these important habitat attributes and
+lead to a faster realization of the full potential benefits of dam removal.
+Deciding on whether dam removal is good for a fish community will always
+require consideration of the uniqueness of the river, the fish assemblages surrounding
+the dam removal in question, and their preferred uses and states. Dam removal allows
+mixing of species from downstream and upstream of dams. This will allow all fish to
+access and sample all habitats available to them and select those that best fulfill their
+life history requirements. This appears to lead to higher species richness, higher
+similarity of fish communities upstream and downstream of dams, and higher diversity.
+While Hill et al. (1994), Kanehl et al. (1997) and Burroughs (2007b) all observed
+increases in abundances of desirable sportfishes, along with increased species richness
+following dam removal, changes in fish habitat and new species interactions could have
+detrimental effects for some desirable fish species. In order to make a decision on the
+desirability of suspected outcomes of potential dam removals, fisheries managers will
+need to consider the fish species present in the river, those fishes’ habitat requirements,
+and the projected changes to habitat expected due to dam removal.
+Surveying the outcomes of past dam removals, even with limited sample size,
+has revealed valuable insights, including the extent of restoration possible with dam
+removal, and the timeframes required for restoration. Pohl (2003) estimated that more
+than 400 dams have been removed in the U.S. to date. There is great potential for
+researchers to apply this methodology to the study of other past dam removals. As
+more of these past dam removals are studied, more reliable estimates of the timeframes
+of restoration of different attributes will be possible, the timeframes could be calibrated
+to specific geological or ecological regions, and the influence of starting conditions on
+time-to-restoration could be examined. For example, if particular starting conditions
+exist prior to dam removal, and they are known to lead to faster restoration times,
+decisions can be made whether to conduct active restoration or whether passive
+restoration would be sufficiently fast. Also, as more dams are removed in the future
+with active site restoration conducted (e.g., sediment collection and removal, natural
+channel design), the effectiveness of these efforts can be evaluated by whether or not
+they lead to faster restoration than average timeframes with just passive, natural
+restoration; and cost-effectiveness of dam removals can be improved.
+
+24
+
+LITERATURE CITED
+
+Angradi, T. R., and J. S. Griffith. 1990. Diel feeding chronology and diet selection
+of rainbow trout (Onchorynchus mykiss) in the Henry’s Fork of the Snake
+River, Idaho. Canadian Journal of Fisheries and Aquatic Sciences,
+47:199-209.
+Bain, M.B., J.T. Finn, and H.E. Booke. 1988. Streamflow regulation and fish
+community structure. Ecology 69(2):382-392.
+Benke, A.C. 1990. A perspective on America’s vanishing streams. Journal of the
+North American Benthological Society 9(1):77-88.
+Beschta, R.L. and Platts, W.S. 1986. Morphological features of small streams:
+significance and function. Water Resources Bulletin, 22: 369-79.
+Burroughs, B.A. 2007a. The effects of Stronach Dam removal on fluvial
+geomorphology of the Pine River, Manistee Co., Michigan. Chapter 1 of
+“The effects of dam removal on fluvial geomorphology and fish; a
+dissertation of the Department of Fisheries & Wildlife, Michigan State
+University.
+Burroughs, B.A. 2007b. The effects of Stronach Dam removal on fish
+in the Pine River, Manistee Co., Michigan. Chapter 2 of “The effects of
+dam removal on fluvial geomorphology and fish; a dissertation of the
+Department of Fisheries & Wildlife, Michigan State University.
+Bushaw-Newton, K.L., Hart, D.D., Pizzuto, J.E., Thomson, J.R., Egan, J., Ashley,
+J.T., Johnson, T.E., Horwitz, R.K., Keeley, M., Lawrence, J., Charles, D.,
+Gatenby, C., Kreeger, D.A., Nightengale, T., Thomas, R.L., and D.J.
+Velinsky. 2002. An integrative approach towards understanding ecological
+responses to dam removal: the Manatawny Creek study. Journal of the
+American Water Resources Association, 38: (6) 1581-1599.
+Chaplin, J.J. 2003. Framework for monitoring and preliminary results after
+removal of Good Hope Mill Dam. Chapter 8 in; Dam removal research:
+status and prospects. W.L. Graf editor. The H. John Heinz III Center for
+Science, Economics and the Environment; Washington, D.C.
+Collier, M., Webb, R.H., and J.C. Schmidt. 1996. Dams and rivers: primer on the
+downstream effects of dams. U.S. Geological Survey Circular 1126,
+Denver, CO 94 p.
+Cummins, K.W. 1962. An evaluation of some techniques for the collection and
+analysis of benthic samples with special emphasis on lotic waters.
+American Midland Naturalist 67:477-504.
+Cushman, R.M. 1985. Review of ecological effects of rapidly varying flows
+downstream from hydroelectric facilities. North American Journal of
+Fisheries Management 5:330-339.
+Doyle, M.W., E.H. Stanley, and J.M. Harbor 2002. Predicting channel response
+to dam removal using geomorphic analogies. Journal of American Water
+Resources Association, 38:1567-1579.
+Doyle, M.W. et al. 2005. Stream ecosystem response to small dam removal:
+lessons from the heartland. Geomorphology, 71: (2005) 227-244.
+
+25
+
+Evans, J.E., S.D. Mackey, J.F. Gottgens, and W.M. Gill. 2000. Lessons from a
+dam failure. Ohio Journal of Science 100(5):121-131.
+Gordon, N.D., McMahon, T.A., Finlayson, B.L., Gippel, C.J., and R.J. Nathan.
+2004. Stream hydrology: an introduction for ecologists. Second Edition. J.
+Wiley & Sons Ltd. England.
+Hayes, D. B., H. R. Dodd, and J. L. Lessard. In press. Conservation
+considerations for small dams on coldwater streams. Proceedings of the
+4th World Fisheries Congress. May 2_6, 2004, Vancouver, BC
+Hicks, B.J., and N.R.N. Watson. 1985. Seasonal changes in abundance of brown
+trout (Salmo trutta) and rainbow trout (S. gairdnerii) assessed by drift
+diving in the Rangitkei river, New Zealand. New Zealand Journal of Marine
+and Freshwater Research 19:1-10.
+Hill, M.J., E.A. Long, and S. Hardin. 1994. Effects of dam removal on Dead Lake,
+Chipola River, Florida. Proceedings of the Annual Conference SEAFWA: 512523.
+Holden, P.B. 1979. Ecology of riverine fishes in regulated streams with emphasis
+on the Colorado River. Pages 57-74. In: J.V. Ward and J.A. Stanford
+(editors) Ecology of Regulated Streams, Plenum Press, New York.
+Francisco, E. 2004. Tales of the Undammed: removing barriers doesn’t
+automatically restore river health. Science News. April 10, 2004, vol. 165,
+no. 15.
+Kanehl, P., D.J. Lyons, and J.E. Nelson. 1997. Changes in the habitat and fish
+community of the Milwaukee River, Wisconsin, following removal of the
+Woolen Mills Dam. North American Journal of Fisheries Management 17:387400.
+Knighton, D. 1984. Fluvial forms and processes. Edward Arnold, London.
+Kondolf, G.M., and S. Li. 1992. The pebble count technique for quantifying
+surface bed material size in instream flow studies. Rivers 3(2):80-87.
+Lane, E.W. 1955. The importance of fluvial morphology in hydraulic
+engineering. ASCE Proc. 81: (745).
+Lessard, J.L. and Hayes, D.B. 2003. Effects of elevated water temperature on
+fish and macroinvertebrate communities below small dams. River
+Research and Applications 19:721-732.
+Ligon, F.K., W.E. Dietrich, and W.J. Trush. 1995. Downstream ecological effects
+of dams. Bioscience 45(3):183-192.
+Martinez, P.J., Chart, T.E., Trammell, M.A., Wullschleger, J.G, and E.P.
+Bergersen. 1994. Fish species composition before and after construction
+of a main stem reservoir on the White River, Colorado. Environmental
+Biology of Fishes 40: 227-239.
+Morista, M. 1959. Measuring of interspecific association and similarity between
+communities. Memoirs of the Faculty Science Kyushu University, Series E
+Biology 3:65-80.
+Petts, G.E. 1980. Long-term consequences of upstream impoundment.
+Environmental Conservation 7(4):325-332.
+
+26
+
+Petts, G.E. and Foster, I. 1985. Rivers and landscape. Edward Arnold, London.
+Pizzuto, J. 2002. Effects of dam removal on river form and process. Bioscience
+52(8):683-691.
+Pohl, M. 2003. American dam removal census: available data and data needs.
+Chapter 2 in; Dam removal research: status and prospects. W.L. Graf
+editor. The H. John Heinz III Center for Science, Economics and the
+Environment; Washington, D.C.
+Pringle, C.M., Freeman, M.C., and B.J. Freeman. 2000. Regional effects of
+hydrologic alterations on riverine macrobiota in the New World: tropicaltemperate comparisons. Bioscience Vol. 50, No. 9: 807-823.
+Quinn, J.W. and T.J. Kwak. 2003. Fish assemblage changes in an Ozark river
+after impoundment: a long-term perspective. Transactions of the American
+Fisheries Society 132:110-119.
+Ricklefs, R.E. 1990. The economy of nature: a textbook in basic ecology. Fourth
+edition. W.H. Freeman and Co., New York. Pp. 516-517.
+Shannon, C.E. and W. Weaver. 1949. The mathematical theory of
+communication. Urbana, IL., Univ. of Ill. Press.
+Shields, F.D., Simon, A., and L.J. Steffen. 2000. Reservoir effects on
+downstream river channel migration. Environmental Conservation 27 (1):
+54-66.
+Stanley, E.H., M.A. Luebke, M.W. Doyle, and D.W. Marshall. 2002. Short-term
+changes in channel form and macroinvertebrate communities following
+low-head dam removal. Journal of the North American Benthological
+Society 21(1):172-187.
+Ward, J.V., and J.A. Stanford. 1989. Riverine ecosystems: the influence of man
+on catchment dynamics and fish ecology. Pages 56-64 in D.P. Dodge
+editor. Proceedings of the International Large River Symposium. Canadian
+Special Publication of Fisheries and Aquatic Sciences 106.
+Wentworth, C.K. 1922. A scale of grade and class for elastic sediments. Journal
+of Geology 30:377-392.
+Williams, G.P., and M.G. Wolman. 1984. Downstream effects of dams on alluvial
+rivers. Professional paper 1286. Washington, D.C.: U.S. Geological
+Survey.
+Wolman, M.G. 1954. A method of sampling coarse river-bed material.
+Transactions of the American Geophysical Union 35(6):951-956.
+Zebell, D.A. Personal Communication. Senior Civil Engineer, Lawson-Fisher
+Associates P.C.. Consulting firm responsible of the removal of the Randall
+Dam on the Coldwater River, Branch Co., MI, in 2002.
+
+27
+
+
