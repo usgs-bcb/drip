@@ -98,7 +98,7 @@ def filter_candidate_phrases(phrases):
         for word in custom:
             if word in phrase:
                 match_wordlist += 1
-                print('Matched: ', word)
+                # print('Matched: ', word)
         if match_wordlist == 0:
             return []
         # POS
@@ -139,5 +139,11 @@ if __name__ == '__main__':
 
     # Full run on doc
     for i in candidate_phrases:
-        print(filter_candidate_phrases(i))
-        print('====================================')
+        rslts = filter_candidate_phrases(i)
+        if len(rslts) != 0:
+            for dam in filter(None, dams['dam_name']):
+                if dam in ' '.join(rslts):
+                    print('Matched: ', dam)
+                    print(rslts)
+                    print('====================================')
+
