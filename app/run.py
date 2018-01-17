@@ -30,7 +30,7 @@ def get_drip_resources(URL='https://beta-gc2.datadistillery.org/api/v1/sql/bcb?q
         raise Exception(e)
 
 
-def load_nlp352(file='../input/sentences_nlp352'):
+def load_nlp352(file='./data/sentences_nlp352'):
     """Return a pandas dataframe from GDD export
 
     Notes
@@ -56,7 +56,7 @@ def find_dam_candidate_phrases(doc_sents, keyword):
     document_sentences : list
     """
     dam_idx = []  # Return list
-    
+
     # Iterate through the sentences looking for keyword
     for idx, sentence in enumerate(doc_sents):
         # Find occurance, append index of sentence below and above.
@@ -81,20 +81,21 @@ def find_dam_candidate_phrases(doc_sents, keyword):
 def filter_candidate_phrases(phrases):
     """ Function to use more intensive methods to
     filter the phrases down.
-    
+
     Parameters
     ----------
     phrases : list
         Python list of 3 sentences.
     """
     match = 0
-    
+
     # required
     custom = [' dam', ' Dam', 'dam', 'remove', 'Remove', 'removal', 'Removal']
     match_wordlist = 0
     for sentence in phrases:
         # Clean
         phrase = sentence.replace('et', '').replace('al', '')
+
         for word in custom:
             if word in phrase:
                 match_wordlist += 1
@@ -119,31 +120,68 @@ if __name__ == '__main__':
     # Rm river/dam and related words
     dams['name'] = dams['dam_name'].str.replace('Dam', '').replace('River', '').replace('River)', '').replace('dam', '')
 
-    # Sample document from PDFtoText
-    with open('./data/burroughs.txt', 'r') as f:
-        file = f.read()
-    doc = textacy.preprocess_text(file, fix_unicode=True).replace('\n', ' ')
+    # Save output
+    save_phrases = []
+    save_names = []
 
-    # Example processing
-    doc_sents = doc.split('.')  # Separate by sentences
-    print('Sentences: %s' % len(doc_sents))
-    candidate_phrases = find_dam_candidate_phrases(doc_sents[:], ' dam')
-    print('Candidate sentences: %s' % (len(candidate_phrases)))
+    # CLI option
+    option = input('Please enter processing route (gdd for geodeepdive) or (local for local document)')
+    if option == 'local':
+        # Sample document from PDFtoText
+        with open('./data/burroughs.txt', 'r') as f:
+            file = f.read()
+        doc = textacy.preprocess_text(file, fix_unicode=True).replace('\n', ' ')
 
-    # Working sample
-    test = '. '.join(candidate_phrases[3])
-    # Fail sample
-    fail = ['There is not the phrase.', 'hi 2345', 'What is a bad sentence?']
-    # Test workflow
-    # print(filter_candidate_phrases(fail))
+        # Example processing
+        doc_sents = doc.split('.')  # Separate by sentences
+        print('Sentences: %s' % len(doc_sents))
+        candidate_phrases = find_dam_candidate_phrases(doc_sents[:], ' dam')
+        print('Candidate sentences: %s' % (len(candidate_phrases)))
 
-    # Full run on doc
-    for i in candidate_phrases:
-        rslts = filter_candidate_phrases(i)
-        if len(rslts) != 0:
-            for dam in filter(None, dams['dam_name']):
-                if dam in ' '.join(rslts):
-                    print('Matched: ', dam)
-                    print(rslts)
-                    print('====================================')
+        # Full run on doc
+        for i in candidate_phrases:
+            rslts = filter_candidate_phrases(i)
+            if len(rslts) != 0:
+                for dam in filter(None, dams['dam_name']):
+                    if dam in ' '.join(rslts):
+                        save_names.append(dam)
+                        save_phrases.append(' '.join(rslts))
+                        print('Matched: ', dam)
+                        print(rslts)
+                        print('====================================')
+    if option == 'gdd':
+        df = load_nlp352()
 
+        # preprocessing (single document 0)
+        document_ids = pd.Series(df.docid.unique())
+
+        doc = df[df.docid == document_ids[1]]['word']
+        cleaned_document = textacy.preprocess_text(' '.join(doc.str.cat().replace('{', '').replace('}', '').replace('.', ' . ').split(',')))
+
+        cd = textacy.Doc(cleaned_document, lang='en')
+        cd.sents
+
+        candidate_phrases = find_dam_candidate_phrases(cleaned_document.split('.'), ' dam')
+        print('Candidate sentences: %s' % (len(candidate_phrases)))
+
+        # Full run on doc
+        for i in candidate_phrases:
+            rslts = filter_candidate_phrases(i)
+            if len(rslts) != 0:
+                for dam in filter(None, dams['dam_name']):
+                    if dam in ' '.join(rslts):
+                        save_names.append(dam)
+                        save_phrases.append(' '.join(rslts))
+                        print('Matched: ', dam)
+                        print(rslts)
+                        print('====================================')
+    else:
+        print('Sorry not avail option')
+
+    # output to file
+    with open('./output/results.tsv', 'w') as f:
+        for idx, i in enumerate(save_phrases):
+            f.write(save_names[idx])
+            f.write('\t')
+            f.write(i)
+            f.write('\n')
