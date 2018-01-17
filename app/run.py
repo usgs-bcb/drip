@@ -123,6 +123,7 @@ if __name__ == '__main__':
     # Save output
     save_phrases = []
     save_names = []
+    save_doc = []
 
     # CLI option
     option = input('Please enter processing route (gdd for geodeepdive) or (local for local document)')
@@ -155,26 +156,30 @@ if __name__ == '__main__':
         # preprocessing (single document 0)
         document_ids = pd.Series(df.docid.unique())
 
-        doc = df[df.docid == document_ids[1]]['word']
-        cleaned_document = textacy.preprocess_text(' '.join(doc.str.cat().replace('{', '').replace('}', '').replace('.', ' . ').split(',')))
+        # All documents 
+        try:
+            for idx, docid in enumerate(df['docid']):
+                doc = df[df.docid == document_ids[idx]]['word']
+                cleaned_document = textacy.preprocess_text(' '.join(doc.str.cat().replace('{', '').replace('}', '').replace('.', ' . ').split(',')))
 
-        cd = textacy.Doc(cleaned_document, lang='en')
-        cd.sents
+                candidate_phrases = find_dam_candidate_phrases(cleaned_document.split('.'), ' dam')
+                print('Candidate sentences: %s' % (len(candidate_phrases)))
 
-        candidate_phrases = find_dam_candidate_phrases(cleaned_document.split('.'), ' dam')
-        print('Candidate sentences: %s' % (len(candidate_phrases)))
-
-        # Full run on doc
-        for i in candidate_phrases:
-            rslts = filter_candidate_phrases(i)
-            if len(rslts) != 0:
-                for dam in filter(None, dams['dam_name']):
-                    if dam in ' '.join(rslts):
-                        save_names.append(dam)
-                        save_phrases.append(' '.join(rslts))
-                        print('Matched: ', dam)
-                        print(rslts)
-                        print('====================================')
+                # Full run on doc
+                for i in candidate_phrases:
+                    rslts = filter_candidate_phrases(i)
+                    if len(rslts) != 0:
+                        for dam in filter(None, dams['dam_name']):
+                            if dam in ' '.join(rslts):
+                                save_names.append(dam)
+                                save_phrases.append(' '.join(rslts))
+                                save_doc.append(docid)
+                                print('Matched: ', dam)
+                                print('Document: ', docid)
+                                print(rslts)
+                                print('====================================')
+        except Exception as e:
+            print(e)
     else:
         print('Sorry not avail option')
 
@@ -182,6 +187,8 @@ if __name__ == '__main__':
     with open('./output/results.tsv', 'w') as f:
         for idx, i in enumerate(save_phrases):
             f.write(save_names[idx])
+            f.write('\t')
+            f.write(save_doc[idx])
             f.write('\t')
             f.write(i)
             f.write('\n')
