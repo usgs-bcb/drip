@@ -2,9 +2,23 @@
 
 A simple python text mining application to identify possibly relevant scientific documents for a set of keywords related to dam removal. This application processes _phrases_ that represent a list that contains 3 sentences. 
 
-#### Input 
+### Command Line Arguments
 
-For development the sample input is an article supplied as a PDF then converted to text using pdftotext. 
+```
+# Runs a document-level random forest model to classify into 3 classes
+# Output into output directory
+-classify
+
+# GeoDeepDive text mining
+-gdd
+
+# Local file (in development)
+-local
+```
+
+#### Document Classification (in progress) 
+
+Currently configured to process one and print the classification 
 
 #### Keywords 
 
