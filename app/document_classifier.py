@@ -4,6 +4,14 @@ import textacy
 
 
 def build_document(df):
+    '''
+    Rebuilding a representation of a document from the
+    sentences_nlp352 format.
+
+    Parameters
+    ----------
+    df : pandas dataframe
+    '''
     # Find unique documents
     document_ids = pd.Series(df.docid.unique())
 
@@ -15,6 +23,15 @@ def build_document(df):
 
 
 def classify_doc(doc):
+    '''
+    Loading a pretrained document classifier to predict
+    a class for the given text. Options are abiotic, 
+    biotic, and abiotic&biotic. 
+
+    Parameters
+    ----------
+    doc : string
+    '''
     # Load scikit learn model
     clf = pickle.load(open('../document-classification/random_forest_classifier.sklearn', 'rb'))
     # Load previous tfidf representation

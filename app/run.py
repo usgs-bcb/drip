@@ -1,87 +1,25 @@
 """
-Dam Removal text mining application
+Text mining application
 
-Input: burroughs.txt
+CLI options:
+    -classify
+    -gdd
+    -local
+
+Local file input: burroughs.txt (not included)
+GDD file input: sentences_nlp352
 """
 import pandas as pd
 import textacy
 from sys import argv
 import spacy
-import pickle
 from utils import get_drip_resources, load_nlp352
 from document_classifier import classify_doc
-
-nlp = spacy.load('en')
-
-
-def find_dam_candidate_phrases(doc_sents, keyword):
-    """ Function to identify dam related phrases
-    This returns a list of candidate phrase indexes
-    from the document sentence list passed in.
-
-    Parameters
-    ----------
-    document_sentences : list
-    """
-    dam_idx = []  # Return list
-
-    # Iterate through the sentences looking for keyword
-    for idx, sentence in enumerate(doc_sents):
-        # Find occurance, append index of sentence below and above.
-        # Three total sentences stored. Overlap may occur.
-        if keyword in sentence.lower():
-            tmp_sentence_index = []
-            # print('Evaluating Sentence: ', sentence, '\n')
-            tmp_sentence_index.append(doc_sents[idx])
-            # Exceptions in place for first and last sentence issues.
-            try:
-                tmp_sentence_index.append(doc_sents[idx+1])
-            except Exception:
-                pass
-            try:
-                tmp_sentence_index.append(doc_sents[idx-1])
-            except Exception:
-                pass
-            dam_idx.append(tmp_sentence_index)
-    return dam_idx
-
-
-def filter_candidate_phrases(phrases):
-    """ Function to use more intensive methods to
-    filter the phrases down.
-
-    Parameters
-    ----------
-    phrases : list
-        Python list of 3 sentences.
-    """
-    match = 0
-
-    # required
-    custom = [' dam', ' Dam', 'dam', 'remove', 'Remove', 'removal', 'Removal']
-    match_wordlist = 0
-    for sentence in phrases:
-        # Clean
-        phrase = sentence.replace('et', '').replace('al', '')
-
-        for word in custom:
-            if word in phrase:
-                match_wordlist += 1
-                # print('Matched: ', word)
-        if match_wordlist == 0:
-            return []
-        # POS
-        for token in nlp(phrase):
-            for dam in list(dams['name']):
-                if token.text.replace(' ', '') in dam and token.pos_ == 'PROPN':
-                    match += 1
-    if match > 0:
-        return phrases
-    else:
-        return []
+from extractors import find_dam_candidate_phrases, filter_candidate_phrases
 
 
 if __name__ == '__main__':
+    nlp = spacy.load('en')
     # Load Data Distillery dam data
     dams = pd.DataFrame([i['properties'] for i in get_drip_resources()['features']])
     # Cleaned name list
@@ -111,7 +49,7 @@ if __name__ == '__main__':
 
         # Full run on doc
         for i in candidate_phrases:
-            rslts = filter_candidate_phrases(i)
+            rslts = filter_candidate_phrases(i, nlp, dams)
             if len(rslts) != 0:
                 for dam in filter(None, dams['dam_name']):
                     if dam in ' '.join(rslts):
@@ -122,7 +60,6 @@ if __name__ == '__main__':
                         print('====================================')
     if '-gdd' in argv:
         df = load_nlp352()
-
         # preprocessing (single document 0)
         document_ids = pd.Series(df.docid.unique())
 
@@ -137,7 +74,7 @@ if __name__ == '__main__':
 
                 # Full run on doc
                 for i in candidate_phrases:
-                    rslts = filter_candidate_phrases(i)
+                    rslts = filter_candidate_phrases(i, nlp, dams)
                     if len(rslts) != 0:
                         for dam in filter(None, dams['dam_name']):
                             if dam in ' '.join(rslts):
