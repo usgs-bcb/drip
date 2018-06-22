@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+pandas = "*"
+spacy = "*"
+pyyaml = "*"
+black = "*"
+requests = "*"
+"psycopg2" = "*"
+apache-airflow = "*"
+
+[requires]
+python_version = "3.6"
