@@ -1,10 +1,10 @@
 # Data Processing Pipeline
 
-In efforts for creating reproducible and have long running sequential tasks this pipeline is setup using Apache Airflow. 
+This data pipeline is setup with apache airflow. 
 
 ### Configuration
 
-Edit the config.yaml file to direct resources
+Change the config-example.yaml file to config.yaml and add your direct resources (paths, models ,etc)
 
 ### Workflow
 

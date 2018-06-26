@@ -6,12 +6,12 @@ import os
 # Fetch configuration information
 env_vars = yaml.load(open("config.yaml").read())
 
-english_ner_model = env_vars["english_ner_model"]
+SPACY_EN_MODEL_PKG = env_vars["english_ner_model"]
 GDD_OUTPUT = env_vars["candidate_dataframe"]
-output_directory = env_vars["output_directory"]
+OUTPUT_DIRECTORY = env_vars["output_directory"]
 
 # spacy
-nlp = spacy.load(english_ner_model, disable=["tagger", "textcat", "parser"])
+nlp = spacy.load(SPACY_EN_MODEL_PKG, disable=["tagger", "textcat", "parser"])
 
 df = pd.read_csv(GDD_OUTPUT)
 
@@ -23,4 +23,4 @@ def process_passage(x):
 
 
 df["spacy_ner"] = df["passage"].apply(process_passage)
-df.to_csv(os.path.join(output_directory, "processed_spacy_english.csv"))
+df.to_csv(os.path.join(OUTPUT_DIRECTORY, "processed_spacy_english.csv"))
