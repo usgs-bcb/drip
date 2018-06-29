@@ -1,10 +1,12 @@
 # Data Processing Pipeline
 
-This data pipeline is setup with apache airflow. 
+This data pipeline is setup with apache airflow. The purpose of this pipeline inputs a GeoDeepDive export, performs additional natural language processing, ETL and produces a csv representing the data in a pandas dataframe.
 
 ### Configuration
 
-Change the config-example.yaml file to config.yaml and add your direct resources (paths, models ,etc)
+Re-name the config-example.yaml file to config.yaml, then and add your full paths for nlp models and files (the airflow bashoperator seems to require this from where it executes)
+
+__NOTE__ -- the config file sometimes produces failures when running, so within each task explicitly define the path. For simplicity I saved this in my default airflow directory.
 
 ### Workflow
 

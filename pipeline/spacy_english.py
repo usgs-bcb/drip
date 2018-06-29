@@ -4,7 +4,7 @@ import yaml
 import os
 
 # Fetch configuration information
-env_vars = yaml.load(open("config.yaml").read())
+env_vars = yaml.load(open("/Users/bserna/airflow/config.yaml").read())
 
 SPACY_EN_MODEL_PKG = env_vars["english_ner_model"]
 GDD_OUTPUT = env_vars["candidate_dataframe"]
@@ -13,7 +13,7 @@ OUTPUT_DIRECTORY = env_vars["output_directory"]
 # spacy
 nlp = spacy.load(SPACY_EN_MODEL_PKG, disable=["tagger", "textcat", "parser"])
 
-df = pd.read_csv(GDD_OUTPUT)
+df = pd.read_csv(GDD_OUTPUT).iloc[:1000]
 
 
 # Spacy EN NER and text

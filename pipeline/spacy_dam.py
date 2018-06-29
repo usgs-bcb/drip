@@ -4,7 +4,7 @@ import yaml
 import os
 
 # Fetch configuration information
-env_vars = yaml.load(open("config.yaml").read())
+env_vars = yaml.load(open("/Users/bserna/airflow/config.yaml").read())
 
 SPACY_DAM_MODEL_PKG = env_vars["dam_ner_model"]
 GDD_OUTPUT = env_vars["candidate_dataframe"]
@@ -16,7 +16,7 @@ dam_ner = spacy.load(
     SPACY_DAM_MODEL_PKG, disable=["tagger", "textcat", "parser"]
 )
 
-df = pd.read_csv(GDD_OUTPUT).iloc[:10000]
+df = pd.read_csv(GDD_OUTPUT).iloc[:1000]
 
 
 def process_passage(x):
